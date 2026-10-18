@@ -60,7 +60,7 @@ module.exports = {
     const address = "Sirajganj, Dhaka, Bangladesh";
     const religion = "Islam";
     const relationship = "Single";
-    const videoLink = "https://files.catbox.moe/vwpxm4.mp4";
+    const videoLink = "https://files.catbox.moe/mz89py.mp4";
 
     let apiServer = "Unavailable";
 
