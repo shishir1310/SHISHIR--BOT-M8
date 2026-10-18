@@ -62,12 +62,12 @@ module.exports = {
     const relationship = "Single";
     const videoLink = "https://files.catbox.moe/mz89py.mp4";
 
-    let apiServer = "Unavailable";
+    let apiServer = "SHISHIR ";
 
     try {
       apiServer = await getApiBaseUrl();
     } catch (e) {
-      apiServer = "Unavailable";
+      apiServer = "SHISHIR ";
     }
 
     const timeBD = moment().tz("Asia/Dhaka");
