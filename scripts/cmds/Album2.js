@@ -14,7 +14,7 @@ const baseApiUrl = async () => {
 
 module.exports = { 
   config: { 
-    name: "album", 
+    name: "album2", 
     version: "1.7", 
     role: 0, 
     author: "MahMUD", 
